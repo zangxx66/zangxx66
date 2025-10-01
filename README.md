@@ -9,7 +9,7 @@
   
   _💫 摸鱼是第一生产力 💫_  
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zangxx66&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zangxx66&theme=transparent&date_format=%5BY.%5Dn.j&ring=FB2C7C&fire=FB2C7C&currStreakNum=FB2C7C&currStreakLabel=FB2C7C&sideNums=FB2C7C&sideLabels=FB2C7C" />
   
 </div>
 
